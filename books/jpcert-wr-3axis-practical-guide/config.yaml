@@ -1,0 +1,12 @@
+title: "JPCERT/CC Weekly Reportを3軸で読み解く実践ガイド"
+summary: "若手セキュリティコンサル/CSIRT担当向け。背景・目的・効果の3軸でセキュリティ情報をフレーム化し、報告書に落とし込む実務手法を全6章で解説。"
+topics: ["security", "jpcert", "csirt", "情報セキュリティ", "若手エンジニア"]
+published: false
+price: 500  # 税込、¥200-5000の範囲
+chapters:
+  - chapter1
+  - chapter2
+  - chapter3
+  - chapter4
+  - chapter5
+  - chapter6
