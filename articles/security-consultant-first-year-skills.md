@@ -121,3 +121,9 @@ IPAが情報セキュリティ10大脅威2026を公開しました。
 - 毎週のJPCERT/CC Weekly Report 3軸分析は[noteメンバーシップ](https://note.com/yuusan_security/membership)で配信中（初月無料）
 - 月1回の無料オンラインワークショップ: [security-3axis.connpass.com](https://security-3axis.connpass.com/)
 - 無料の3軸分析ワークシート: [intect-i.jp](https://www.intect-i.jp/)
+
+
+---
+<!-- SEO_REFRESH_MARKER -->
+_最終更新: 2026-04-15_
+<!-- /SEO_REFRESH_MARKER -->
