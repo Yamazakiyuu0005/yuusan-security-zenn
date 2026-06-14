@@ -186,5 +186,5 @@ JPCERT/CC Weekly Reportは脆弱性リストではなく、日本のセキュリ
 
 ---
 <!-- SEO_REFRESH_MARKER -->
-_最終更新: 2026-05-15_
+_最終更新: 2026-06-15_
 <!-- /SEO_REFRESH_MARKER -->
