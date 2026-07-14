@@ -58,5 +58,5 @@ membership_plan: スタンダード
 
 ---
 <!-- SEO_REFRESH_MARKER -->
-_最終更新: 2026-06-15_
+_最終更新: 2026-07-15_
 <!-- /SEO_REFRESH_MARKER -->
