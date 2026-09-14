@@ -107,7 +107,7 @@ Wizの分析によれば、C2(指揮統制)サーバーのエンドポイント�
 
 ## この記事について
 
-本稿は note で公開した記事の技術版クロスポストです（原典: https://note.com/yuusan_security/n/n574b8901edc5）。
+本稿は note で公開した記事の技術版クロスポストです（原典: [note の記事](https://note.com/yuusan_security/n/n574b8901edc5)）。
 JPCERT/CC Weekly Report 等の公的情報を **背景・目的・期待される効果の3軸 × 現場/管理者/経営者の3ペルソナ** に翻訳する週次連載の1本です。
 
 ## 関連リソース
