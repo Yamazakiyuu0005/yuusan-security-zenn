@@ -107,3 +107,9 @@ JPCERT/CC Weekly Report 等の公的情報を **背景・目的・期待され�
 - 実践教材・レポート(BOOTH): https://www.intect-i.jp/go/booth/?utm_source=zenn&utm_medium=social&utm_campaign=booth
 - 無料ツール WR-Analysis: https://www.intect-i.jp/tools/wr-analysis/?utm_source=zenn&utm_medium=social&utm_campaign=wr_analysis
 - 法人・事業者の方へ（研修の中身を14分で見る・無料/登録不要）: https://www.intect-i.jp/for-business/?utm_source=zenn&utm_medium=sns_biz
+
+
+---
+<!-- SEO_REFRESH_MARKER -->
+_最終更新: 2026-09-15_
+<!-- /SEO_REFRESH_MARKER -->
