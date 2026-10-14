@@ -53,9 +53,9 @@ membership_plan: スタンダード
 - 毎週のJPCERT/CC Weekly Report 3軸分析: [noteメンバーシップ](https://note.com/yuusan_security/membership)（初月無料）
 - 月1回の無料オンライン勉強会: [security-3axis.connpass.com](https://security-3axis.connpass.com/)
 
+
+
 ---
 <!-- SEO_REFRESH_MARKER -->
-_最終更新: 2026-09-15_
+_最終更新: 2026-10-15_
 <!-- /SEO_REFRESH_MARKER -->
-
-
